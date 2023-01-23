@@ -1,0 +1,41 @@
+{
+    "dogs": [
+        {
+            "id": "0",
+            "picture": "https://dogtails.wpenginepowered.com/wp-content/uploads/2021/03/Scout-YellowLab-dogmask-Montana-selfie-e1615940256187.jpg",
+            "dog": "Labrador Retriever",
+            "description": "Scout the Yellow Labrador Retriever with Dog Watch of Montana Dealer Ed Johnson (in his Lab mask)"
+        },
+        {
+            "id": "1",
+            "picture": "https://dogtails.wpenginepowered.com/wp-content/uploads/2021/03/Monroe-Grey-and-Bouvier-White-Frenchies-male-UticaNY-UpstateNY.jpg",
+            "dog": "French Bulldog",
+            "description": "Frenchie siblings Monroe and Bouvier from Utica, NY, customers of DogWatch of Upstate New York"
+        },
+        {
+            "id": "2",
+            "picture": "https://dogtails.wpenginepowered.com/wp-content/uploads/2021/03/Hudson-GSD-DaneWI-Stateline-2-600x800.jpg",
+            "dog": "German Shepherd",
+            "description": "Hudson the German Shepherd from Dane, WI – Stateline DogWatch"
+        },
+        {
+            "id": "3",
+            "picture": "https://dogtails.wpenginepowered.com/wp-content/uploads/2021/03/Prosser-Golden-puppy-WinstonSalem-Triad-prossthehaus-IG-780x800.png",
+            "dog": "Golden Retriever",
+            "description": "Prosser the Golden Retriever puppy from Winston-Salem, NC – Triad DogWatch"
+        },
+        {
+            "id": "4",
+            "picture": "https://dogtails.wpenginepowered.com/wp-content/uploads/2021/03/Clarance-englishbulldog-puppy-Atlanta.png",
+            "dog": "English Bulldog",
+            "description": "Clarance the English Bulldog puppy – DogWatch of Metro Atlanta"
+        }
+        ,
+        {
+            "id": "5",
+            "picture": "https://dogtails.wpenginepowered.com/wp-content/uploads/2021/03/SugarSpice-Poodles-Savannah-800x800.jpg",
+            "dog": "Poodle",
+            "description": "Standard Poodles Sugar and Spice – DogWatch of Savannah and Hilton Head Island"
+        }
+    ]
+}
